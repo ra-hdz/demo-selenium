@@ -35,8 +35,12 @@ jobs:
     - name: Build with Maven
       run: mvn clean test allure:report
 
+    - name: Setup Pages
+      uses: actions/configure-pages@v2
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v1
+      with:
+          path: './target/site/allure-maven-plugin'
     - name: Deploy report to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v1
-      with:
-        folder: target/site/allure-maven-plugin

@@ -1,0 +1,87 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "searchOnGoogle",
+    "children" : [ {
+      "name" : "launchBrowser",
+      "uid" : "7d41ce690c7d60e8",
+      "parentUid" : "492fad788c73b08629aa3c641e8741f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1661734413017,
+        "stop" : 1661734416311,
+        "duration" : 3294
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "navigateToGoogle",
+      "uid" : "a25b88939d76054f",
+      "parentUid" : "492fad788c73b08629aa3c641e8741f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1661734416411,
+        "stop" : 1661734417585,
+        "duration" : 1174
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "typeIntoSearchbox",
+      "uid" : "af3ea5690074cf17",
+      "parentUid" : "492fad788c73b08629aa3c641e8741f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1661734417599,
+        "stop" : 1661734417672,
+        "duration" : 73
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "clickSearch",
+      "uid" : "8e30ff13724abf02",
+      "parentUid" : "492fad788c73b08629aa3c641e8741f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1661734417675,
+        "stop" : 1661734419765,
+        "duration" : 2090
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "resultsPageIsReached",
+      "uid" : "25c96b51cc1c73c7",
+      "parentUid" : "492fad788c73b08629aa3c641e8741f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1661734419768,
+        "stop" : 1661734419776,
+        "duration" : 8
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "closeBrowser",
+      "uid" : "d583bd86b5bbfb1b",
+      "parentUid" : "492fad788c73b08629aa3c641e8741f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1661734419779,
+        "stop" : 1661734422204,
+        "duration" : 2425
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "492fad788c73b08629aa3c641e8741f7"
+  } ]
+}

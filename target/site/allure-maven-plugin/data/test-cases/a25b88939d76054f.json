@@ -1,0 +1,62 @@
+{
+  "uid" : "a25b88939d76054f",
+  "name" : "navigateToGoogle",
+  "fullName" : "searchOnGoogle.navigateToGoogle",
+  "historyId" : "28f2e2270b82182e6d17efe3f2a67c9b",
+  "time" : {
+    "start" : 1661734416411,
+    "stop" : 1661734417585,
+    "duration" : 1174
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "searchOnGoogle"
+  }, {
+    "name" : "testClass",
+    "value" : "searchOnGoogle"
+  }, {
+    "name" : "testMethod",
+    "value" : "navigateToGoogle"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "searchOnGoogle"
+  }, {
+    "name" : "host",
+    "value" : "RA-HDZ"
+  }, {
+    "name" : "thread",
+    "value" : "45136@RA-HDZ.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a25b88939d76054f.json",
+  "parameterValues" : [ ]
+}

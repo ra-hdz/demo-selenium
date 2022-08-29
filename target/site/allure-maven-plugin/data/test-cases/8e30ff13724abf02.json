@@ -1,0 +1,62 @@
+{
+  "uid" : "8e30ff13724abf02",
+  "name" : "clickSearch",
+  "fullName" : "searchOnGoogle.clickSearch",
+  "historyId" : "2013c30b8aa7094782b65b0356432b50",
+  "time" : {
+    "start" : 1661734417675,
+    "stop" : 1661734419765,
+    "duration" : 2090
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "searchOnGoogle"
+  }, {
+    "name" : "testClass",
+    "value" : "searchOnGoogle"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickSearch"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "searchOnGoogle"
+  }, {
+    "name" : "host",
+    "value" : "RA-HDZ"
+  }, {
+    "name" : "thread",
+    "value" : "45136@RA-HDZ.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e30ff13724abf02.json",
+  "parameterValues" : [ ]
+}

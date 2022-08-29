@@ -1,0 +1,61 @@
+[ {
+  "uid" : "7d41ce690c7d60e8",
+  "name" : "launchBrowser",
+  "time" : {
+    "start" : 1661734413017,
+    "stop" : 1661734416311,
+    "duration" : 3294
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af3ea5690074cf17",
+  "name" : "typeIntoSearchbox",
+  "time" : {
+    "start" : 1661734417599,
+    "stop" : 1661734417672,
+    "duration" : 73
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e30ff13724abf02",
+  "name" : "clickSearch",
+  "time" : {
+    "start" : 1661734417675,
+    "stop" : 1661734419765,
+    "duration" : 2090
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d583bd86b5bbfb1b",
+  "name" : "closeBrowser",
+  "time" : {
+    "start" : 1661734419779,
+    "stop" : 1661734422204,
+    "duration" : 2425
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "25c96b51cc1c73c7",
+  "name" : "resultsPageIsReached",
+  "time" : {
+    "start" : 1661734419768,
+    "stop" : 1661734419776,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a25b88939d76054f",
+  "name" : "navigateToGoogle",
+  "time" : {
+    "start" : 1661734416411,
+    "stop" : 1661734417585,
+    "duration" : 1174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,91 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "RA-HDZ",
+    "children" : [ {
+      "name" : "45136@RA-HDZ.main(1)",
+      "children" : [ {
+        "name" : "resultsPageIsReached",
+        "uid" : "25c96b51cc1c73c7",
+        "parentUid" : "b2e43998433ffd02b50bdeb38e377551",
+        "status" : "passed",
+        "time" : {
+          "start" : 1661734419768,
+          "stop" : 1661734419776,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "closeBrowser",
+        "uid" : "d583bd86b5bbfb1b",
+        "parentUid" : "b2e43998433ffd02b50bdeb38e377551",
+        "status" : "passed",
+        "time" : {
+          "start" : 1661734419779,
+          "stop" : 1661734422204,
+          "duration" : 2425
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "clickSearch",
+        "uid" : "8e30ff13724abf02",
+        "parentUid" : "b2e43998433ffd02b50bdeb38e377551",
+        "status" : "passed",
+        "time" : {
+          "start" : 1661734417675,
+          "stop" : 1661734419765,
+          "duration" : 2090
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "navigateToGoogle",
+        "uid" : "a25b88939d76054f",
+        "parentUid" : "b2e43998433ffd02b50bdeb38e377551",
+        "status" : "passed",
+        "time" : {
+          "start" : 1661734416411,
+          "stop" : 1661734417585,
+          "duration" : 1174
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "launchBrowser",
+        "uid" : "7d41ce690c7d60e8",
+        "parentUid" : "b2e43998433ffd02b50bdeb38e377551",
+        "status" : "passed",
+        "time" : {
+          "start" : 1661734413017,
+          "stop" : 1661734416311,
+          "duration" : 3294
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "typeIntoSearchbox",
+        "uid" : "af3ea5690074cf17",
+        "parentUid" : "b2e43998433ffd02b50bdeb38e377551",
+        "status" : "passed",
+        "time" : {
+          "start" : 1661734417599,
+          "stop" : 1661734417672,
+          "duration" : 73
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b2e43998433ffd02b50bdeb38e377551"
+    } ],
+    "uid" : "d4fd5457f357ff813975a098b433ef60"
+  } ]
+}

@@ -21,6 +21,7 @@ public class searchOnGoogle {
         options.addArguments("--headless");
         options.addArguments("--disable-dev-shm-usage");
         options.addArguments("--window-size=1920x1080");
+        options.addArguments("--disable-gpu");
         driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
         driver.manage().window().maximize();
